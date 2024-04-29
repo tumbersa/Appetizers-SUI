@@ -8,6 +8,9 @@
 import SwiftUI
 
 struct AppetizerListView: View {
+    
+    @State private var appetizers: [Appetizer] = []
+    
     var body: some View {
         NavigationStack {
             List(MockData.appetizers) {appetizer in

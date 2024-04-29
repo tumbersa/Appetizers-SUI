@@ -17,6 +17,7 @@
 		A435AB092BDFF5B2000FB729 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A435AB082BDFF5B2000FB729 /* Appetizer.swift */; };
 		A435AB0B2BDFFE97000FB729 /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A435AB0A2BDFFE97000FB729 /* AppetizerListCell.swift */; };
 		A435AB0D2BE003FE000FB729 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A435AB0C2BE003FE000FB729 /* NetworkManager.swift */; };
+		A435AB0F2BE00800000FB729 /* APError.swift in Sources */ = {isa = PBXBuildFile; fileRef = A435AB0E2BE00800000FB729 /* APError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		A435AB082BDFF5B2000FB729 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 		A435AB0A2BDFFE97000FB729 /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
 		A435AB0C2BE003FE000FB729 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		A435AB0E2BE00800000FB729 /* APError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APError.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				A435AB082BDFF5B2000FB729 /* Appetizer.swift */,
 				A435AB0A2BDFFE97000FB729 /* AppetizerListCell.swift */,
 				A435AB0C2BE003FE000FB729 /* NetworkManager.swift */,
+				A435AB0E2BE00800000FB729 /* APError.swift */,
 			);
 			path = "Appetizers-SUI";
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A435AB092BDFF5B2000FB729 /* Appetizer.swift in Sources */,
+				A435AB0F2BE00800000FB729 /* APError.swift in Sources */,
 				A435AB0B2BDFFE97000FB729 /* AppetizerListCell.swift in Sources */,
 				A435AB052BDFC668000FB729 /* AccountView.swift in Sources */,
 				A435AAF52BDFC5C8000FB729 /* AppetizerTabView.swift in Sources */,
